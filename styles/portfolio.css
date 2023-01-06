@@ -118,4 +118,36 @@ justify-content: space-around;
     color: #474747 ;
 }
 
+/* what-i-do styles */
+.what-i-do{
+    margin-top: 130px;
 
+}
+section{
+    margin-top: 130px;
+    text-align: ;
+}
+.skills-container{
+    display: flex;
+    gap: 24px;
+}
+.skill{
+    background: #ffffff;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.6);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.skills-title{font-weight: 700 ;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.skill-description{
+    color: #757575;
+     
+}
+
+/* Resume style */
